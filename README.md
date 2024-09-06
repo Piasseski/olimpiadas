@@ -1,5 +1,5 @@
 ```markdown
-## **README.md - Buscador de Atletas Brasileiros**
+## **README.md - Imersão Dev com Google Gemini**
 
 ###  **Descubra seus atletas favoritos!** 
 
